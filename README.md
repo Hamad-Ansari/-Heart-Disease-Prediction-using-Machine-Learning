@@ -19,7 +19,7 @@ A comprehensive machine learning project for predicting heart disease risk using
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/Heart-Disease-Prediction-ML.git
+git clone https://github.com/hamad-ansari/Heart-Disease-Prediction-ML.git
 cd Heart-Disease-Prediction-ML
 pip install -r requirements.txt
 ```
