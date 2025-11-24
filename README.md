@@ -7,6 +7,8 @@
 
 A comprehensive machine learning project for predicting heart disease risk using clinical parameters. This project demonstrates end-to-end ML pipeline development from data analysis to deployment-ready prediction system.
 
+<img width="1899" height="1070" alt="Screenshot 2025-11-24 142615" src="https://github.com/user-attachments/assets/89ef1755-baec-4b7d-aa39-6ef65ccaccbe" />
+
 ## 📊 Project Highlights
 
 - **AUC Score**: 0.92+ on test data
